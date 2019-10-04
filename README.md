@@ -34,13 +34,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is a way to provide meaning and organization to your HTML. Semantic tags are simply HTML tags with meaning. 
+This also helps SEO ranking. You use semantic tags when you are providing meaning!
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+block fills up the entire space, and can use the height and width attributes.
+inline fills up what's needed for the content inside, and you CANNOT use height and width attributes.
+
 
 3. What are the 4 areas of the box model?
 
+Content, Padding, Border, Margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross-axis
+
 5. Explain why git is valuable to a team of developers.
+
+git is valuable to a team of developers to keep everything organized, and for version control
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
